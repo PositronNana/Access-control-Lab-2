@@ -1,0 +1,7 @@
+Unprotected admin functionality with unpredictable url 
+
+Goal 
+1. Delete the user Carlos
+
+Anaylisis
+
